@@ -4,3 +4,5 @@ gem 'private_pub'
 gem 'thin'
 gem 'foreman'
 gem 'rails_12factor'
+
+ruby '2.1.2'
